@@ -3,7 +3,6 @@
 ![alt text](https://i.imgur.com/KHnYmn7.png)
 
 <br>
-<br>
 
 ## 🚀 Tecnologias
 
