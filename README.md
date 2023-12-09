@@ -1,4 +1,4 @@
-<h1 align="center"> Private page </h1>
+<h1 align="center"> My Page </h1>
 
 ![alt text](https://i.imgur.com/KHnYmn7.png)
 
